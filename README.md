@@ -1,3 +1,6 @@
+
+Download link is at the end :)
+
 # Movie-Performance-Success-Analysis
 
 Project Overview
@@ -152,6 +155,14 @@ Open it using Power BI Desktop
 Use slicers to explore different genres, countries, and time periods
 
 Review insights page by page following the report structure
+
+
+## 📊 Power BI Dashboard File
+
+Due to GitHub file size limitations, the Power BI (.pbix) file is hosted externally.
+
+🔗 Download link:  
+[Click here to download the Power BI file](https://drive.google.com/drive/folders/1q-cjUcCRnWOdFbVFXEvGWC00iFDbxw6b?q=type:archive%20parent:1q-cjUcCRnWOdFbVFXEvGWC00iFDbxw6b)
 
 👤 Author
 
